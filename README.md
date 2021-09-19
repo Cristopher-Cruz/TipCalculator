@@ -20,7 +20,6 @@ Here's a walkthrough of implemented user stories:
 
 <img src='http://g.recordit.co/jciFHlSDOx.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
-GIF created with [RecordIt](https://recordit.co).
 
 ## License
 
